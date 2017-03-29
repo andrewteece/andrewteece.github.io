@@ -1,0 +1,15 @@
+html,
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1 {
+  color: #2b2b2b;
+  font-family: "Roboto";
+  font-size: 5.833333333333333em; /* 70/12 */
+  font-weight: 300;
+  line-height: 4.875em; /* 78/16 */
+  max-width: 43.75em; /* 700/16 */
+  position: relative;
+}
